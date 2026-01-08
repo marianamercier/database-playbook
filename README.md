@@ -1,6 +1,6 @@
 # 📘 Database Playbook
 
-A community-driven collection of **practical scripts and operational queries** for database professionals.
+A community-driven collection of **practical scripts and operational commands** for database professionals.
 
 ---
 
@@ -15,7 +15,7 @@ It is designed to help **DBAs, SREs, and data engineers** during day-to-day oper
 
 ## 🗄️ Databases Covered
 
-This repository contains scripts and queries for multiple database engines, including:
+This repository contains scripts, queries and cli commands for multiple database engines, including:
 
 - **PostgreSQL**
 - **MySQL / MariaDB**
