@@ -1,0 +1,5 @@
+-- 01. Active Sessions
+SELECT ID, USER, HOST, DB, COMMAND, TIME, STATE, INFO
+FROM information_schema.PROCESSLIST
+WHERE COMMAND <> 'Sleep'
+ORDER BY TIME DESC;

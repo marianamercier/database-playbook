@@ -1,0 +1,2 @@
+-- 19. InnoDB Engine Status
+SHOW ENGINE INNODB STATUS;

@@ -1,0 +1,5 @@
+-- 03. Long Running Queries
+SELECT ID, USER, HOST, DB, TIME, STATE, INFO
+FROM information_schema.PROCESSLIST
+WHERE TIME > 60 AND COMMAND <> 'Sleep'
+ORDER BY TIME DESC;
