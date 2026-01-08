@@ -9,6 +9,7 @@ This repository gathers real-world scripts, queries, diagnostics, and operationa
 The goal is simple:
 👉 make database operations safer, clearer, and easier to share.
 
+
 🎯 Purpose
 
 Databases are at the heart of every system — and yet, much of the operational knowledge around them lives only in people’s heads, private notes, or emergency Slack messages.
@@ -24,6 +25,7 @@ Serve as a learning resource for people growing into DBA / SRE roles
 Encourage knowledge sharing across database technologies
 
 Build a practical reference, not just documentation
+
 
 🧠 What You’ll Find Here
 
@@ -47,56 +49,6 @@ Content may include:
 
 All scripts are written with production reality in mind.
 
-🗂️ Repository Structure (example)
-database-playbook/
-│
-├── postgresql/
-│   ├── activity/
-│   ├── performance/
-│   ├── maintenance/
-│   ├── replication/
-│   └── security/
-│
-├── mysql/
-│   ├── performance/
-│   ├── replication/
-│   └── administration/
-│
-├── sqlserver/
-│   ├── performance/
-│   ├── availability/
-│   └── security/
-│
-├── oracle/
-│   ├── diagnostics/
-│   └── administration/
-│
-└── common/
-    ├── checklists/
-    └── incident-playbooks/
-
-
-The structure may evolve as the project grows — flexibility is intentional.
-
-🧪 Philosophy
-
-Practical over theoretical
-
-Readable over clever
-
-Operational over academic
-
-Community over ego
-
-Scripts should be:
-
-Clear
-
-Well-commented
-
-Safe by default
-
-Easy to adapt to different environments
 
 🤝 Contributing
 
@@ -116,6 +68,7 @@ Suggesting structure improvements
 
 If you’re unsure whether something “belongs” here — it probably does 🙂
 
+
 ⚠️ Disclaimer
 
 Always review and test scripts before running them in production
@@ -125,6 +78,7 @@ Some queries may require specific permissions
 Database versions and environments may behave differently
 
 This repository provides guidance and tools, not guarantees.
+
 
 🌱 Why This Project Exists
 
@@ -150,6 +104,3 @@ Contribute back when you can
 
 That’s how this playbook stays alive.
 
-✨ Author
-
-Created and maintained as a personal community project by a database professional who believes that operational knowledge should be shared, not hidden.
