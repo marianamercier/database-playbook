@@ -1,54 +1,62 @@
-📘 Database Playbook
+# 📘 Database Playbook
 
-A collection of practical scripts and operational queries for database professionals.
+A community-driven collection of **practical scripts and operational queries** for database professionals.
 
-This is a personal project created to share real-world database knowledge and help DBAs, SREs, and data engineers in their daily work.
+---
 
+## 🎯 What Is This Project?
 
-🎯 Purpose
+**Database Playbook** is a personal project created to **share real-world database operational knowledge**.
 
-Databases are at the heart of every system and yet, much of the operational knowledge around them lives only in people’s heads, private notes, or emergency Slack messages.
-
-This playbook exists to:
-
-- Share battle-tested operational scripts;
-
-- Help during incidents, performance issues, and maintenance;
-
-- Serve as a learning resource for people growing into DBA / SRE roles;
-
-- Encourage knowledge sharing across database technologies;
-
-- Build a practical reference;
-  
-
-🗄️ Databases Covered
-
-This repository includes scripts for multiple database engines, such as:
-
-PostgreSQL
-
-MySQL / MariaDB
-
-SQL Server
-
-MongoDB
-
-Cloud-managed databases (RDS, Aurora, etc.)
+It is designed to help **DBAs, SREs, and data engineers** during day-to-day operations, troubleshooting, and learning.
 
 
-🤝 Contributing
+---
 
-Contributions are welcome.
-Feel free to open issues, suggest improvements, or add new scripts.
+## 🗄️ Databases Covered
+
+This repository contains scripts and queries for multiple database engines, including:
+
+- **PostgreSQL**
+- **MySQL / MariaDB**
+- **SQL Server**
+- **MongoDB**
+- **Cloud-managed databases** (RDS, Aurora, etc.)
+
+---
+
+## 🤝 Contributing
+
+Contributions are **welcome and encouraged**.
+
+You can contribute by:
+- Adding new scripts
+- Improving existing ones
+- Fixing issues or edge cases
+- Sharing best practices
+
+---
+
+## ⚠️ Disclaimer
+
+- Always **review and test scripts** before running them in production
+- Some scripts may require **elevated permissions**
+- Database behavior can vary by version and environment
 
 
-⚠️ Disclaimer
+---
 
-Always review and test scripts before running them in production.
-Database behavior may vary depending on version and environment.
+## ✨ About This Project
 
+**Created and maintained as a personal community project by a database professional who believes that operational knowledge should be shared, not hidden.**
 
-⭐ Why this exists
+---
 
-This project exists to share knowledge and make database operations easier for the community. Created and maintained as a personal community project by a database professional who believes that operational knowledge should be shared, not hidden.
+## ⭐ Support the Project
+
+If this repository helps you:
+- ⭐ Star it
+- 🔁 Share it
+- 🤝 Contribute when you can
+
+That’s how this playbook grows.
