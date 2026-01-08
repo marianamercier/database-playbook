@@ -1,6 +1,6 @@
 # 📘 Database Playbook
 
-A community-driven collection of **practical scripts and operational commands** for database professionals.
+A community-driven collection of **practical scripts and operational cli-commands** for database professionals.
 
 ---
 
